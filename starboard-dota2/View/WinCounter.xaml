@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="Starboard.View.WinCounter"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:View="clr-namespace:Starboard.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="28" d:DesignWidth="94">
+    <StackPanel Orientation="Horizontal">
+        <View:AbilityTick Margin="3,2,0,0" x:Name="tick1" />
+        <View:AbilityTick Margin="3,2,0,0" x:Name="tick2" />
+        <View:AbilityTick Margin="3,2,0,0" x:Name="tick3" />
+    </StackPanel>
+</UserControl>

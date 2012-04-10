@@ -1,0 +1,4 @@
+<configuration id="d89befe0-8115-11e1-b0c4-0800200c9a66" name="Starboard">
+	<app imagename="starboard-dota2.exe" />
+	<event notloaded="notloaded.png" noconn="noconn.png" nosignal="nosignal.png" nosignaltimeout="2000" />
+</configuration>

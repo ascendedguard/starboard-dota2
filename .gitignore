@@ -1,0 +1,11 @@
+_Resharper.*
+*/bin
+*/obj
+*.suo
+*.ReSharper.user
+*StyleCop.Cache
+*.dotCover
+*.user
+*DotSettings
+Installer/StarboardSetup.exe
+*.otf
